@@ -10,4 +10,4 @@ install:
   - pip install tox-travis
 
 script:
-  - tox 
+  - ./manage.py test
