@@ -115,7 +115,7 @@ class Applicant(models.Model):
     Someone applying for a grant.
     """
 
-    program = models.ForeignKey(Program, related_name="applicants")
+    program = models.ForeignKey('Program', related_name="applicants")
     name = models.TextField()
     email = models.EmailField()
 
