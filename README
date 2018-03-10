@@ -1,6 +1,8 @@
 Grorg
 -----
 
+[![Build Status](https://travis-ci.org/raiderrobert/grorg.svg?branch=master)](https://travis-ci.org/raiderrobert/grorg)
+
 A semi-experimental platform for managing grant applications.
 
 The running copy is at http://grorg.aeracode.org - contact andrew@aeracode.org to set up access.
